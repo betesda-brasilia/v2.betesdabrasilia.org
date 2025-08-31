@@ -1,7 +1,7 @@
 media: public/img
 content:
   - name: posts
-    label: Posts
+    label: Missionários
     type: collection
     path: content/missionarios
     view:
