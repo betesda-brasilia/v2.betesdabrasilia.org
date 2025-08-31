@@ -1,5 +1,5 @@
 ---
-pageTitle: Conheça os Missionários • Selma
+pageTitle: Conheça os Missionários • Selma e Francisco Irismar
 title: Selma
 date: 2025-08-30
 draft: false
