@@ -10,7 +10,7 @@ draft: false
 
 A Nill nasceu em Belém, capital do Pará e é a 7ª de uma família de 9 filhos.
 
-![](/public/img/familia-nill.jpg)
+![](/public/img/nill/familia.jpg)
 
 <p style="text-align: center">Uma parte da família. Conseguiu achar a Nill?</p>
 
