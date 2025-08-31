@@ -16,6 +16,19 @@ content:
       - { name: draft, label: Draft, type: boolean }
       - { name: tags, label: Tags, type: string, list: true }
       - { name: body, label: Conteúdo, type: rich-text }
+  - name: sermons
+    label: Pregações
+    type: collection
+    path: content/sermons
+    view:
+      fields: [ title, draft, date ]
+    fields:
+      - { name: title, label: Título, type: string, required: true }
+      - { name: description, label: Descrição, type: string }
+      - { name: date, label: Data publicação, type: date }
+      - { name: draft, label: Draft, type: boolean }
+      - { name: tags, label: Tags, type: string, list: true }
+      - { name: body, label: Conteúdo, type: rich-text }
   - name: about
     label: About page
     type: file
