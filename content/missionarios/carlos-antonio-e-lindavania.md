@@ -1,6 +1,6 @@
 ---
 pageTitle: Conheça os Missionários • Carlos Antônio e Lidavânia
-title: Carlos Antônio e Lidanvânia
+title: Carlos Antônio e Lidavânia
 date: 2025-08-30
 draft: false
 ---
