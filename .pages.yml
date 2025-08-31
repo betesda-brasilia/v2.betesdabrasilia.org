@@ -10,11 +10,9 @@ content:
       - { name: pageTitle, label: Título Página, type: string, required: true }
       - { name: title, label: Título, type: string, required: true }
       - { name: description, label: Descrição, type: string }
-      - { name: phone1, label: Telefone, type: string }
-      - { name: phone2, label: Telefone, type: string }
+      - { name: contact, label: Contatos, type: rich-text }
       - { name: date, label: Data publicação, type: date }
-      - { name: birthDate, label: Data de Nascimento, type: date }
-      - { name: weddingAnniversary, label: Aniversário de casamento, type: date }
+      - { name: dates, label: Datas importantes, type: rich-text }
       - { name: draft, label: Draft, type: boolean }
       - { name: tags, label: Tags, type: string, list: true }
       - { name: body, label: Conteúdo, type: rich-text }
