@@ -10,10 +10,6 @@ draft: false
 
 A Nill nasceu em Belém, capital do Pará e é a 7ª de uma família de 9 filhos.
 
-![](/public/img/nill/familia.jpg)
-
-<p style="text-align: center">Uma parte da família. Conseguiu achar a Nill?</p>
-
 Foi criada na igreja e durante um bom tempo, ela foi apenas uma frequentadora da igreja. Mas, aos 21 anos ela tomou a maior decisão de sua vida: entregar-se completamente para Deus e trabalhar para o Seu Reino.
 
 “Eu me converti com 21 anos e logo entendi minha responsabilidade na pregação do evangelho. Comecei a me envolver em missões a partir da minha igreja, Batista Sião, que tinha trabalhos sociais e projetos com Ribeirinhos.”
