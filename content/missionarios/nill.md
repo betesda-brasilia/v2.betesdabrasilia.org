@@ -3,9 +3,9 @@ title: Lydia (Nill)
 date: 2025-08-30
 draft: false
 ---
-Lydia (Nill) Sousa - 🎂 19/09
+**Aniversário - 🎂 19/09**
 
-Telefone para contato: +996 555 995 386
+**Telefone para contato: +996 555 995 386**
 
 A Nill nasceu em Belém, capital do Pará e é a 7ª de uma família de 9 filhos.
 
