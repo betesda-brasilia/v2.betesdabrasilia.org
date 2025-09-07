@@ -1,7 +1,11 @@
 ---
-pageTitle: Conheça os Missionários • James e Silvia
-title: James e Silvia
+pageTitle: "Conheça os Missionários • James e Sílvia "
+title: "James e Sílvia "
 date: 2025-08-30
 draft: false
 ---
-Estamos atualizando as informações 😊🙏🏽.
+### Aniversários
+
+**James** \- 20/03
+
+**Sílvia** \- 04/07
